@@ -1,0 +1,6 @@
+@inproceedings{dewil2023rvdd,
+  title={Video joint denoising and demosaicing with recurrent CNNs},
+  author={Dewil, Valéry and Courtois, Adrien and Rodríguez, Mariano and Ehret, Thibaud and Brandonisio, Nicola and Bujoreanu, Denis and Facciolo, Gabriele and Arias, Pablo},
+  booktitle={2023 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  year={2023}
+}

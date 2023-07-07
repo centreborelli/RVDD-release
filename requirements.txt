@@ -1,0 +1,12 @@
+torch==1.8.0
+torchvision
+numpy
+scikit-image
+imagecodecs
+opencv-contrib-python
+opencv-python
+Pillow
+tensorboardX
+setuptools
+pyopencl
+cython
